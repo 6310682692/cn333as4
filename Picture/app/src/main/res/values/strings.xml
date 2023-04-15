@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Picture</string>
+    <string name="height">Height : </string>
+    <string name="width">Width : </string>
+    <string name="category">Category</string>
+    <string name="view">Submit</string>
+    <string name="home">Home</string>
+    <string name="Pict">My Pict</string>
+    <string name="back">Back</string>
+    <string name="cat">cat</string>
+    <string name="dog">dog</string>
+    <string name="bunny">bunny</string>
+    <string name="books">books</string>
+    <string name="cars">cars</string>
+    <string name="flowers">flowers</string>
+</resources>
